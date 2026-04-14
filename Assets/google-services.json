@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285185866965",
+    "project_id": "udg-videojuego-2d",
+    "storage_bucket": "udg-videojuego-2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285185866965:android:1c90501d0d2f4fb1faf65c",
+        "android_client_info": {
+          "package_name": "com.Ruben.ProyectoChip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPW1BTjpzA18FOaxcqoEveJ6LZkVbOB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
